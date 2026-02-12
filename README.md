@@ -24,9 +24,9 @@
       <br/><br/>
       <strong>LeetCode</strong>
       <br/><br/>
-      <strong style="font-size:28px;">1814</strong><br/>
+      <strong style="font-size:28px;">1875</strong><br/>
       <sub>Max Rating</sub><br/>
-      <sub>Best Rank:1291</sub>
+      <sub>Best Rank:990</sub>
     </td>
   </tr>
 </table>
@@ -46,4 +46,5 @@
 - 11 discussion comments  
 
 ---
+
 
