@@ -39,12 +39,9 @@
 
 **Neutralinojs**
 - 10 Pull Requests submitted  
-- 2 merged · 7 under final review  
-
-**Oppia**
-- 3 issues assigned  
-- 11 discussion comments  
+- 4 merged · 7 under final review  
 
 ---
+
 
 
