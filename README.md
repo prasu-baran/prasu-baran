@@ -38,10 +38,11 @@
 ## Open Source Contributions
 
 **Neutralinojs**
-- 10 Pull Requests submitted  
-- 4 merged · 7 under final review  
+- 15 Pull Requests submitted  
+- 5 merged · 9 under final review  
 
 ---
+
 
 
 
