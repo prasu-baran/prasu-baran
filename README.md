@@ -24,7 +24,7 @@
       <br/><br/>
       <strong>LeetCode</strong>
       <br/><br/>
-      <strong style="font-size:28px;">1875</strong><br/>
+      <strong style="font-size:28px;">1950</strong><br/>
       <sub>Max Rating</sub><br/>
       <sub>Best Rank:990</sub>
     </td>
@@ -39,9 +39,10 @@
 
 **Neutralinojs**
 - 15 Pull Requests submitted  
-- 5 merged · 9 under final review  
+- 5 merged · 10 under final review  
 
 ---
+
 
 
 
