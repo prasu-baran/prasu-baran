@@ -30,20 +30,3 @@
     </td>
   </tr>
 </table>
-
-
-
----
-
-## Open Source Contributions
-
-**Neutralinojs**
-- 15 Pull Requests submitted  
-- 5 merged · 10 under final review  
-
----
-
-
-
-
-
