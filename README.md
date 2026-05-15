@@ -2,7 +2,7 @@
 
 ## Competitive Programming
 
-**Solved over 350 problems** across LeetCode and Codeforces
+**Solved over 400 problems** across LeetCode and Codeforces
 
 <table>
   <tr>
